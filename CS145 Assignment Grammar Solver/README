@@ -1,0 +1,2 @@
+Instructor-provided client program that prompts a user for the name of a grammar file and then gives the user the opportunity to generate random versions of various elements
+of the grammar. For this assignment I worked on the main where the program runs and Grammar Solver where the logic is where the words are trimmed and correctly fixed
