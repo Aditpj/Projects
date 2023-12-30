@@ -1,0 +1,1 @@
+ShoppingCart Client is where program is run and interact with the cart with logic. ShoppingItem is where a array is made to store the items. A test class is made to make sure the user can't put invaild inputs.
