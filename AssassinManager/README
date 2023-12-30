@@ -1,0 +1,6 @@
+The AssassinManager assignment deals with Link List. There are 3 classes I worked on in this assignment, AssassinMain, AssassinManager, and AssassinNode.
+The AssassinNode class is used to store the information for one player in the game of assassin. Initially the "killer" field
+is set to null, but when the person is killed, this should be set to the name of the killer.
+Class AssassinMain is the driver program for the assassin management task. It reads names from a file, shuffles them if the user so desires, and uses
+them to start the game.  The user is asked for the name of the next victim until the game is over.
+AssassinManager is where the main logic is implemented.
