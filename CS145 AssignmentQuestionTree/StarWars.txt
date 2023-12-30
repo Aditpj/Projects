@@ -1,0 +1,27 @@
+Q:Is small and green
+A:Yoda
+Q:Is small metal droid
+A:BB8
+Q:Does the person have a purple lightsaber
+A:Mace Windu
+Q:Wears a black armor and has a cape
+A:Darth Vader
+Q:Looks like big foot and is hairy
+A:Chewbacca
+Q:Is the Sith Lord
+A:Palpatine
+Q:Is married to Princess Leia
+A:Han Solo
+Q:Is married to Han Solo
+A:Princess Leia
+Q:Is Anakin Skywalker's son
+A:Luke Skywalker
+Q:Was Anakin Skywalker's mentor
+A:Obi-Wan Kenobi
+Q:Is known as the chosen one
+A:Anakin Skywalker
+Q:Is Han Solo and Princess Leia's son
+A:Kylo Ren
+Q:Has green armor and is a bounty hunter
+A:Boba Fett
+A:Jedi
