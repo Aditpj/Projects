@@ -1,0 +1,2 @@
+The game of Craps uses GUI and how the model and view are connected to the controller where things are moved around each other. The Model is where the main logic is
+while the View is where all the GUI is and the interactions that happen when a button is clicked.
