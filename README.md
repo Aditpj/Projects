@@ -1,2 +1,2 @@
-# School-Projects
+# Projects
 Computer Science projects
